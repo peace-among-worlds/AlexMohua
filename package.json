@@ -1,10 +1,10 @@
 {
-  "name": "alex mohua",
+  "name": "alexmohua",
   "description": "A starter Gatsby site which includes Emotion and Tailwind",
-  "homepage": "https://peace-among-worlds.github.io/AlexMohua",
+  "homepage": "https://peace-among-worlds.github.io/alexmohua",
   "version": "3.0.0",
-  "author": "alex mohua",
-  "repository": "https://github.com/peace-among-worlds/AlexMohua",
+  "author": "alexmohua",
+  "repository": "https://github.com/peace-among-worlds/alexmohua",
   "dependencies": {
     "@emotion/react": "^11.1.5",
     "@emotion/styled": "^11.1.5",
