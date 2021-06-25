@@ -5,10 +5,6 @@
   My website using Gatsby Emotion Tailwind
 </h1>
 
-
-See https://github.com/chrismwilliams/gatsby-emotion-tailwind-starter for reference and any further tips you need
-
-
 ## Features
 
 - React static generator [GatsbyJS](https://www.gatsbyjs.org/) v2
