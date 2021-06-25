@@ -5,7 +5,7 @@ module.exports = {
     author: `Alex Mohua`,
     title: `Web Developer - Alex Mohua`,
     description: `A summary of my skills & projects`,
-    siteUrl: `https://peace-among-worlds.github.io`,
+    siteUrl: `https://peace-among-worlds.github.io/AlexMohua/`,
     pathPrefix: "/AlexMohua/",
   },
   plugins: [
