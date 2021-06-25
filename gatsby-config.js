@@ -6,7 +6,7 @@ module.exports = {
     title: `Web Developer - Alex Mohua`,
     description: `A summary of my skills & projects`,
     siteUrl: `https://peace-among-worlds.github.io`,
-    pathPrefix: "/Alex-Mohua/",
+    pathPrefix: "/AlexMohua/",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
