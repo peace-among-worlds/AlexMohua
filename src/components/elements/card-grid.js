@@ -40,7 +40,7 @@ export default function CardGrid() {
             placeholder="blurred"
           />
           <div className="card-content">
-            <span className="type">Tailwind, Javascript</span>
+            <span className="type">Tailwind, JS</span>
             <h3>Andy Ayrey</h3>
             <p>A website rebuild, to showcase the benefits of Tailwind CSS, for a client.</p>
           </div>
@@ -52,7 +52,7 @@ export default function CardGrid() {
             placeholder="blurred"
           />
           <div className="card-content">
-            <span className="type">CSS, React</span>
+            <span className="type">CSS, React, Node, Heroku</span>
             <h3>Recognise</h3>
             <p>A simple app that identifies faces within a photo the user selects.</p>
           </div>
@@ -64,8 +64,8 @@ export default function CardGrid() {
             placeholder="blurred"
           />
           <div className="card-content">
-            <span className="type">Tailwind, React, Node</span>
-            <h3>Transmission Paradox</h3>
+            <span className="type">CSS, JS</span>
+            <h3 href="https://peace-among-worlds.github.io/paradox/">Project Paradox</h3>
             <p>A website for an art collective to share static, dynamic & interactive media. </p>
           </div>
         </Card>
